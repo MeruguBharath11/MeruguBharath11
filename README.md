@@ -24,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merugubharath11&show_icons=true&locale=en" alt="merugubharath11" /></p>
 
+![snake gif](https://github.com/MeruguBharath11/MeruguBharath11/blob/output/github-snake-dark.svg)
