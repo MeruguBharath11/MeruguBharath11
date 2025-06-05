@@ -5,7 +5,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram]https://www.instagram.com/mr__bharath_05/profilecard/?igsh=Y285NzFycWRzMWw1[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merugu-bharath1001/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mr__bharath_05/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merugu-bharath1001/)
  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:merugubharath9@gmail.com)
  
 
